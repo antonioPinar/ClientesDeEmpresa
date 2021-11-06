@@ -1,0 +1,15 @@
+C:\Users\anton\AppData\Local\Temporary Projects\ArrayObjetos\bin\Debug\ArrayObjetos.exe.config
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\bin\Debug\ArrayObjetos.exe.config
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\bin\Debug\ArrayObjetos.exe
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\bin\Debug\ArrayObjetos.pdb
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\bin\Debug\ArrayObjetos.xml
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\obj\Debug\ArrayObjetos.vbprojResolveAssemblyReference.cache
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\obj\Debug\ArrayObjetos.DisAltas.resources
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\obj\Debug\ArrayObjetos.DisBajas.resources
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\obj\Debug\ArrayObjetos.DisListadoClientes.resources
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\obj\Debug\ArrayObjetos.Resources.resources
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\obj\Debug\ArrayObjetos.vbproj.GenerateResource.Cache
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\obj\Debug\ArrayObjetos.exe
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\obj\Debug\ArrayObjetos.xml
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\obj\Debug\ArrayObjetos.pdb
+C:\Users\anton\OneDrive\Documentos\DAM2\2DAM-DesarrolloInterfaces\ArrayObjetos\ArrayObjetos\obj\Debug\ArrayObjetos.DisPrincipal.resources
